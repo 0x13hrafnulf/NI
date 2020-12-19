@@ -1,0 +1,2 @@
+/etc/init.d/networking restart
+echo "nameserver 192.168.100.101" > /etc/resolv.conf
